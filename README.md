@@ -32,3 +32,20 @@ A core finding of this research is the identification of **"Utopian Vertigo"**�
 ## 🎓 Citation
 If you use this analysis or the MMM framework, please cite:
 *Pegah, Dr. (2026). The Cognitive Linguistics of Utopia: Multimodal Metaphors and Conceptual Blending in Travis Scott’s Sonic World.*
+markdown
+## 🎓 Citation
+‌
+If you use this research, the Multimodal Mapping Matrix (MMM), or the annotated corpus in your work, please cite it as follows:
+‌
+### APA Style
+Pegah, D. (2026). *The Cognitive Linguistics of Utopia: Multimodal Metaphors and Conceptual Blending in Travis Scott’s Sonic World*. GitHub Repository. https://github.com/Pegi1727/Travis-Scott-Utopia-Cognitive-Analysis
+‌
+### BibTeX (for LaTeX users)
+@misc{pegah2026utopia,
+author = {Pegah, Dr.},
+title = {The Cognitive Linguistics of Utopia: Multimodal Metaphors and Conceptual Blending in Travis Scott’s Sonic World},
+year = {2026},
+publisher = {GitHub},
+journal = {GitHub Repository},
+howpublished = {\url{https://github.com/Pegi1727/Travis-Scott-Utopia-Cognitive-Analysis}}
+}
