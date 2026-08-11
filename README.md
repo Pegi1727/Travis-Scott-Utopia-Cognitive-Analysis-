@@ -206,7 +206,21 @@ The **Cyber-Tribal Blend** describes the emergent conceptual structure produced 
 The construct captures the coexistence of evolutionary instincts, technological mediation, digital identity, aggression, adaptation, and aspirations toward an idealized future.
 
 ---
+## 📊 MMM Acoustic–Schema Dataset
 
+The `mmm_acoustic_schema_mapping.csv` file provides the structured analytical data underlying the Multimodal Mapping Matrix (MMM). It documents the relationship between selected acoustic features, their technical parameters, candidate image schemas, and their interpreted cognitive meanings across the three focal tracks.
+
+| Track | Acoustic Feature | Frequency / Parameter | Candidate Schema | Interpreted Meaning |
+|---|---|---|---|---|
+| HYAENA | Aggressive 808 | 30–80 Hz | FORCE | Primal Survival |
+| HYAENA | Sharp Percussion | 8000 Hz+ | BLOCKAGE | Digital Jungle Obstacles |
+| SIRENS | Reverb Vocals | 3.0 s decay | CONTAINER | Spatial Enclosure |
+| MY EYES | Rising Synths | 2000–8000 Hz | VERTICALITY (UP) | Ascent / Truth |
+| MY EYES | Sub-Bass Rumble | 20–40 Hz | VERTICALITY (DOWN) | Doubt / Fallibility |
+
+> **Analytical note:** The mappings in this dataset are heuristic and interpretive. Acoustic parameters are treated as multimodal cues that may support candidate cognitive-schema interpretations rather than as deterministic triggers of specific cognitive states.
+
+---
 # 📁 Repository Structure
 
 ```text
