@@ -247,3 +247,55 @@ Travis-Scott-Utopia-Cognitive-Analysis-/
 │
 └── scripts/
     └── analytical and acoustic-processing scripts
+
+---
+## 📚 Citation and Research Archive
+
+The research materials, analytical framework, multimodal mapping resources, figures, and supplementary materials associated with this study are permanently archived through Zenodo.
+
+**DOI:** https://doi.org/10.5281/zenodo.20612488
+
+### Recommended Citation
+
+Merrikhi, P. (2026). *The Cognitive Linguistics of Utopia: Multimodal Metaphors and Conceptual Blending in Travis Scott’s Sonic World*. Zenodo. https://doi.org/10.5281/zenodo.20612488
+
+### APA 7th Edition
+
+Merrikhi, P. (2026). *The cognitive linguistics of utopia: Multimodal metaphors and conceptual blending in Travis Scott’s sonic world* [Research repository]. Zenodo. https://doi.org/10.5281/zenodo.20612488
+
+### BibTeX
+
+```bibtex
+@misc{merrikhi2026utopia,
+  author       = {Merrikhi, Pegah},
+  title        = {The Cognitive Linguistics of Utopia: Multimodal Metaphors and Conceptual Blending in Travis Scott's Sonic World},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20612488},
+  url          = {https://doi.org/10.5281/zenodo.20612488}
+}
+```
+
+The DOI provides a persistent scholarly identifier for the research materials and should be preferred when citing the archived version of this work.
+
+---
+
+## 📬 Contact
+
+**Dr. Pegah Merrikhi**
+Independent Researcher
+PhD in Applied Linguistics
+
+**Email:** [pegah.merrikhiii@gmail.com](mailto:pegah.merrikhiii@gmail.com)
+
+For questions regarding the **Multimodal Mapping Matrix (MMM)**, annotated corpus, analytical procedures, figures, supplementary materials, or potential research collaboration, please contact the author by email.
+
+---
+
+## 🔗 Research Resources
+
+* **GitHub Repository:** `Travis-Scott-Utopia-Cognitive-Analysis-`
+* **Permanent Research DOI:** https://doi.org/10.5281/zenodo.20612488
+* **Researcher:** Dr. Pegah Merrikhi
+* **Affiliation:** Independent Researcher
+* **Field:** Applied Linguistics / Cognitive Linguistics / Multimodal Analysis
