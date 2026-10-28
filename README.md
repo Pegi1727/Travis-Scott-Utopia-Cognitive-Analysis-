@@ -24,36 +24,31 @@ The following graphic abstract provides an overview of the study's theoretical f
 
 The following figures provide the visual documentation of the analytical framework and empirical findings reported in the article.
 
-## Figure 1. Multimodal Analytical Framework
-
+## Figure 1
 <p align="center">
-  <img src="figures/1.jpg" alt="Figure 1 - Multimodal Analytical Framework" width="900">
+  <img src="figures/figure1_mmm_methodology.png" alt="Figure 1 - Multimodal Analytical Framework" width="900">
 </p>
 
-**Figure 1.** Multimodal analytical framework integrating acoustic features, lyrical meanings, image schemas, conceptual blending, and force-dynamic relations.
-
+*** Figure 1. Triangulation architecture of the Multimodal Mapping Matrix (MMM). The framework integrates multimodal sensory inputs (Layer 1) through cognitive-analytical engines of Conceptual Metaphor Theory, Blending, Image Schemas, and Force Dynamics (Layer 2) to derive emergent cognitive constructs such as the Cyber-Tribal Blend, Force-Dynamic Utopia, and Utopian Vertigo (Layer 3).
 ---
 
 ## Figure 2. Multimodal Mapping Matrix
 
 <p align="center">
-  <img src="figures/2.jpg" alt="Figure 2 - Multimodal Mapping Matrix" width="900">
+  <img src="figures/figure2_hyaena_cybertribal.png" alt="Figure 2 - Multimodal Mapping Matrix" width="900">
 </p>
 
-**Figure 2.** Multimodal Mapping Matrix (MMM) linking measurable acoustic properties with cognitive image schemas and emergent interpretive meanings.
+Figure 2. Cognitive-metaphorical mapping and blending structure for “HYAENA”. The convergence of percussive attacks, low-frequency dominance, and survival/status lyrics instantiates the “Cyber-Tribal Blend,” fusing primal hunter-gatherer imagery with high-technology cybernetic environments.
 
 ---
 
-## Figure 3. Conceptual Blending Architecture
+## Figure 3. sirens_forcedynamics
 
 <p align="center">
-  <img src="figures/3.jpg" alt="Figure 3 - Conceptual Blending Architecture" width="900">
+  <img src="figures/figure3_sirens_forcedynamics.png" alt="Figure 3 - Conceptual Blending Architecture" width="900">
 </p>
 
-**Figure 3.** Conceptual Blending architecture showing the interaction between primal/tribal and digital/futuristic input spaces and the resulting emergent conceptual structure.
-
----
-
+**Figure 3.** Figure 3. Force-dynamic configuration and spatial enclosure in “SIRENS”. The schematic diagram illustrates the vector interactions between vocal continuity (agonist), rhythmic-spatial disruptions (antagonist), and resulting containment/resistance dynamics across the auditory-lyric continuum.
 ## Figure 4. Force-Dynamic and Sonic Analysis
 
 <p align="center">
@@ -64,45 +59,32 @@ The following figures provide the visual documentation of the analytical framewo
 
 ---
 
-## Figure 4 (continued). Temporal Development of Force-Dynamic Relations
-
+## Figure 4 
 <p align="center">
-  <img src="figures/4%20continued.jpg" alt="Figure 4 continued - Temporal Development" width="900">
+  <img src="figures/figure4_myeyes_vertigo.png" alt="Figure 4 continued - Temporal Development" width="900">
 </p>
 
-**Figure 4 (continued).** Temporal continuation of Figure 4, documenting the sequential development of sonic events, force-dynamic interactions, and cognitive responses across the analyzed material.
-
+** Figure 4. Utopian Vertigo and vertical instability architecture in “MY EYES”. The conceptual model traces the cognitive mapping of abrupt dynamic shifts, acoustic verticality cues (high spectral centroid vs. sub-bass), and spatial disorientation representing the pursuit and collapse of utopian ascension.
 ---
 
-## Figure 5. Acoustic Profiles of the Three Focal Tracks
-
+## Figure 5. 
 <p align="center">
-  <img src="figures/5.jpg" alt="Figure 5 - Acoustic Profiles" width="900">
+  <img src="figures/figure5_crosstrack_reliability.png" alt="Figure 5 - Acoustic Profiles" width="900">
 </p>
 
-**Figure 5.** Acoustic profiles of the three focal tracks—*HYAENA*, *SIRENS*, and *MY EYES*—showing the sonic characteristics used in the multimodal cognitive analysis.
-
----
-
-## Figure 6. Utopian Vertigo
-
-<p align="center">
-  <img src="figures/6.jpg" alt="Figure 6 - Utopian Vertigo" width="900">
-</p>
-
-**Figure 6.** The proposed *Utopian Vertigo* construct, illustrating the simultaneous activation and interaction of UP/ASCENT and DOWN/INSTABILITY schemas in the construction of contemporary utopian experience.
-
----
-
-## Figure 7. Integrative Model of Utopian Meaning Construction
-
-<p align="center">
-  <img src="figures/figure7.png" alt="Figure 7 - Integrative Model of Utopian Meaning Construction" width="900">
-</p>
-
-**Figure 7.** Integrative model of multimodal utopian meaning construction, connecting acoustic features, linguistic cues, image schemas, force dynamics, conceptual blending, and emergent meaning.
-
----
+Figure 5. Cross-track comparative synthesis and inter-rater reliability calibration. (A) Distribution indices of dominant image schemas across “HYAENA”, “SIRENS”, and “MY EYES”. (B) Cohen’s 
+𝜅
+κ
+ inter-rater agreement scores across analytical dimensions, demonstrating high methodological reliability (
+𝜅
+=
+0.84
+κ=0.84
+ overall, exceeding the 
+0.80
+0.80
+ threshold).
+---------------
 
 # 🧠 Research Overview
 
